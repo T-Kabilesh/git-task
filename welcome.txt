@@ -1,2 +1,1 @@
-Welcome to git 
-
+Git is easy to learn
